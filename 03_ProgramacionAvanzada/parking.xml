@@ -1,0 +1,3650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="LayerFolder_check">
+      <ListStyle>
+        <listItemType>check</listItemType>
+      </ListStyle>
+    </Style>
+    <Style id="LayerFolder_checkHideChildren">
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Style id="LayerFolder_checkOffOnly">
+      <ListStyle>
+        <listItemType>checkOffOnly</listItemType>
+      </ListStyle>
+    </Style>
+    <Style id="LayerFolder_radioFolder">
+      <ListStyle>
+        <listItemType>radioFolder</listItemType>
+      </ListStyle>
+    </Style>
+    <name>OPEN_DATA_WMS</name>
+    <Style id="style_symbol_parking1azulclaro_0.4_ff000000">
+      <IconStyle>
+        <Icon>
+          <href>http://mapas.valencia.es/WebsMunicipales/tmp/5ad9f3a1_17dc_0.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_symbol_Parking1_0.4_ffb87d37">
+      <IconStyle>
+        <Icon>
+          <href>http://mapas.valencia.es/WebsMunicipales/tmp/5ad9f3a1_17dc_1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>TRA-APARCAMIENTOS</name>
+      <visibility>1</visibility>
+      <styleUrl>#LayerFolder_check</styleUrl>
+      <Placemark>
+        <name>APARCAMIENTO BIOPARC</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[APARCAMIENTO BIOPARC]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Pío Baroja,]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[3]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[721]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.40702776,39.47805916
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOCTOR VICENTE ZARAGOZA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[DOCTOR VICENTE ZARAGOZA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Dr. Vicente Zaragozá (próx. a calle Ramón Asensio)]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[360]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35856115,39.48348842
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAZA ROMA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PLAZA ROMA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Plaza Roma]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[348]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39870782,39.47101194
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GODELLETA - PÍO XII - MÉDICO VICENTE TORRENT</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GODELLETA - PÍO XII - MÉDICO VICENTE TORRENT]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pio XII - Godelleta - Médico Vicente Torrent]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[577]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39515241,39.48362229
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEVERO OCHOA</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[SEVERO OCHOA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Profesor Severo Ochoa]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[462]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36413974,39.47703405
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE PÉREZ GALDÓS, 131</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE PÉREZ GALDÓS, 131]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Pérez Galdós, 131]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[131]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[120]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39513512,39.47392717
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE COLLADO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE COLLADO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Calixto III]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[36]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[200]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39154314,39.47036358
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PROFESOR TIERNO GALVÁN</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PROFESOR TIERNO GALVÁN]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[C. Padre Urbano - Pl. Profesor Tierno Galván]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[372]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37126764,39.48875134
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Lorenzo Palmireno]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[12]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[39]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35104307,39.46904501
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING CALIXTO III</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING CALIXTO III]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Calixto III]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[35]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[28]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38982653,39.47080254
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIPUTADO RICARDO SAMPER</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[DIPUTADO RICARDO SAMPER]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Diputado Ricardo Samper]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[196]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37943335,39.48616615
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOCTOR GÓMEZ FERRER</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[DOCTOR GÓMEZ FERRER]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Dr. Gómez Ferrer]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[260]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36067473,39.48052805
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>APARCAMIENTO PALLETER</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[APARCAMIENTO PALLETER]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Palleter]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[242]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38567447,39.46779606
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALBACETE - MARVÁ</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[ALBACETE - MARVÁ]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Albacete, Marvá]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[299]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38360380,39.46401916
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING MARVÁ 5</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING MARVÁ 5]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Marvá]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[5]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[390]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38282060,39.46329854
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRES FORQUES - CHIVA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[TRES FORQUES - CHIVA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Tres Forques, calle Chiva y Mariano Ribera]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[710]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38992845,39.46436704
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VIRGEN DE LA CABEZA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[VIRGEN DE LA CABEZA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Virgen de la Cabeza]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[213]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39901958,39.46202269
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GENERAL URRUTIA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GENERAL URRUTIA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle General Urrutia]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[275]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36592240,39.45992919
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING AQUA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING AQUA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Amadeo Roca (Pintor)]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[36]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[2108]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.34361743,39.45801940
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EXPLORADOR ANDRÉS - ENCARNA MÁÑEZ</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[EXPLORADOR ANDRÉS - ENCARNA MÁÑEZ]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Explorador Andrés (entre Actriz Encarna Máñez y calle Impresor Lambert Palmart)]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value/>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[617]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.34519310,39.47159816
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>APARCAMIENTOS LA FE</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[APARCAMIENTOS LA FE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Pianista Martínez Carrasco]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[977]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37639609,39.44454574
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INGENIERO RAFAEL JANINI</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[INGENIERO RAFAEL JANINI]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Ingeniero Rafael Janini]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[256]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.33981922,39.47065887
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESCULTOR ALFONSO GABINO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[ESCULTOR ALFONSO GABINO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Escultor Alfonso Gabino]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[294]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.34569501,39.47437848
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARMANDO PALACIO VALDÉS</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[ARMANDO PALACIO VALDÉS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Polo de Bernabé]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[203]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36343511,39.47488049
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABA - ESTACIÓN JOAQUÍN SOROLLA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[SABA - ESTACIÓN JOAQUÍN SOROLLA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle San Vicente Mártir]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value/>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38316364,39.45793286
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PASEO NEPTUNO - EUGENIA VIÑES</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PASEO NEPTUNO - EUGENIA VIÑES]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Paseo Neptuno - calle Eugenia Viñes]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[373]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.32353924,39.46346134
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTRAL PARKING LEVANTE</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[CENTRAL PARKING LEVANTE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle San Vicente Mártir]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[196]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value/>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38328166,39.45940733
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING AVE VALENCIA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING AVE VALENCIA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle San Vicente Mártir]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[204]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value/>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38342113,39.45882749
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VELLUTERS, VIRIATO, MURILLO (CONSERVATORIO)</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[VELLUTERS, VIRIATO, MURILLO (CONSERVATORIO)]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Viriato]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value/>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value/>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38239788,39.47509436
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE RUZAFA</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[MERCADO DE RUZAFA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Barón de Cortés]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[357]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37141386,39.46249778
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PÚBLICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PÚBLICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Grabador Esteve]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[10]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[61]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36770782,39.47089364
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PÚBLICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PÚBLICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Pizarro]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[10]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[194]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37253580,39.46779606
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE DONAT</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE DONAT]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Conde de Altea]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[15]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[100]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36890945,39.46576683
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PRIVADO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PRIVADO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Sueca]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[9]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[487]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37607631,39.46294237
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING AVENIDA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING AVENIDA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Avenida Reino de Valencia]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[15]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[249]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37121615,39.46464866
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REGNE DE VALÈNCIA - MAESTRO GOZALBO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[REGNE DE VALÈNCIA - MAESTRO GOZALBO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Avenida Reino de Valencia - Calle Maestro Gozalbo - Calle Burriana]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[192]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36853394,39.46407714
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING RUZAFA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING RUZAFA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle General San Martín]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[13]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[225]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37470302,39.46540239
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PÚBLICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PÚBLICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Gran Vía Marqués del Turia]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[80]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[200]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36498270,39.46838412
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MERCADO DE COLÓN</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[MERCADO DE COLÓN]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value/>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value/>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[450]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36787948,39.46901358
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[SABA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Bailén]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[11]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[150]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37796459,39.46654540
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INTERIOR HOSPITAL GENERAL UNIVERSITARIO DE VALENCIA</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[INTERIOR HOSPITAL GENERAL UNIVERSITARIO DE VALENCIA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Casa Misericordia]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[1acc]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[263]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.41003740,39.46857563
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PRIMADO REIG - A. CATALUÑA</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PRIMADO REIG - A. CATALUÑA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Nelson Mandela]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[603]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35554322,39.47943786
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTA MARÍA MICAELA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[SANTA MARÍA MICAELA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Santa María Micaela - Juan Llorens - Gabriel Miró]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[466]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39077705,39.47232476
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALFONSO VERDEGUER - LA FE</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[ALFONSO VERDEGUER - LA FE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Alfonso Verdeguer]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[410]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38964325,39.48554215
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J. J. DOMINE</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[J. J. DOMINE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Doctor J. J. Dómine]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[294]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.33174905,39.46145188
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL CORTE INGLES</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[EL CORTE INGLES]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pintor Sorolla]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[26]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37167705,39.47114654
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING LAURIA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING LAURIA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Roger de Lauria]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[21]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[520]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37252633,39.46927392
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HEROE ROMEU</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[HEROE ROMEU]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Alberique, Heroe Romeu, Buen Orden]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[329]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38814614,39.46901348
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARÓN DE CÁRCER - CONDE DE PARCENT</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[BARÓN DE CÁRCER - CONDE DE PARCENT]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Ciudad de Brujas, S. Juan de Villarrasa]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[187]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[428]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37981236,39.47356174
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GLORIETA - PAZ</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GLORIETA - PAZ]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Tetuán, calle de la Paz y calle General Tovar]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[666]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36982637,39.47368117
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTA DE LA MAR - COLON</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PORTA DE LA MAR - COLON]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Navarro Reverter]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[5]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[243]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36815386,39.47179651
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DR. WAKSMAN</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[DR. WAKSMAN]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Dr. Waksman (entre Cra. Fte. San Luis y calle Rubén Vela)]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[35]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[376]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37460970,39.45652856
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING VINCCI-LYS</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING VINCCI-LYS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Martínez Cubells]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[3]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[293]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37461881,39.46833926
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING CENTRO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING CENTRO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Portillo de S. Jorge]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[3]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[159]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37560001,39.47099198
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PLAZA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PLAZA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle General San Martín]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[2 y 16]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[62]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37569607,39.46534566
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE ASTORIA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE ASTORIA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Cádiz]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[34]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[100]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37428697,39.46263823
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE GEYPAR S.A.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE GEYPAR S.A.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Sueca]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[44]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[400]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37488511,39.46094908
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE TALLERES MOLLÁ, S.L.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE TALLERES MOLLÁ, S.L.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Buenos Aires]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[30]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[25]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37768542,39.46127357
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING CIRILO AMORÓS 8</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING CIRILO AMORÓS 8]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Cirilo Amorós]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[8]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[186]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37381444,39.46624006
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING AZA-COLÓN</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING AZA-COLÓN]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Colón]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[6]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[100]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37451083,39.46719271
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PIZARRO DOCE, S.A.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PIZARRO DOCE, S.A.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Pizarro]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[28]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[52]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37228157,39.46743960
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING BURDEOS</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING BURDEOS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Pizarro]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[28]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[160]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37148711,39.46631356
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING COLON 60</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING COLON 60]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Colón]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[60]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[175]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37047679,39.46999329
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING DESTRO S.A.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING DESTRO S.A.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Isabel La Católica]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[8]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[297]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37082221,39.46915429
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING LA GALERÍA JORGE JUAN</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING LA GALERÍA JORGE JUAN]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Cirilo Amorós]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[62]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[194]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36814592,39.46861623
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING GARAJE SALVATIERRA S.L.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING GARAJE SALVATIERRA S.L.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Conde Salvatierra]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[18]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[125]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36833576,39.46974663
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING MEDITERRÁNEO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING MEDITERRÁNEO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Cirilo Amorós]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[74]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[80]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36671694,39.46921447
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE ALASKA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE ALASKA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Císcar]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[9]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[65]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36638146,39.46732404
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING MARQUES DEL TURIA 62</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING MARQUES DEL TURIA 62]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Gran Vía Marqués del Turia]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[62]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[50]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36729820,39.46736283
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING BARRERA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING BARRERA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[San Vicente Martir]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[83-85]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[180]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38018828,39.46735689
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING HIPERCOR</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING HIPERCOR]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pío XII]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[51]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[438]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39680434,39.48462177
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING TRADE CENTER</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING TRADE CENTER]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Ricardo Micó]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[136]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38779981,39.48168101
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING LA FE S.L.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING LA FE S.L.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Padre Ferris]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[53]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[100]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38686092,39.48564177
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING QUIRON S.A.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING QUIRON S.A.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Blasco Ibañez]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[14]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[58]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36445371,39.47836109
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING E.E.S.S. ASPA S.A</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING E.E.S.S. ASPA S.A]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Cardenal Benlloch]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[45]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[152]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35550578,39.46968955
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PÚBLICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PÚBLICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Casa Misericordia]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[8]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[70]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.41034160,39.46758243
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING JERÓNIMO MUÑOZ - TRÁFICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING JERÓNIMO MUÑOZ - TRÁFICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Jeronimo Muñoz]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[380]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38715348,39.45913693
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PÚBLICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PÚBLICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Guillem de Castro]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[9]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[340]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38052781,39.46822038
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>APARCAMIENTO ASPAS</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[APARCAMIENTO ASPAS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Literato Gabriel Miró]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[61]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[221]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39237571,39.47122554
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING JESÚS</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING JESÚS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Alcira]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[21]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[70]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38430917,39.46656688
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE GUIMERÁ</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[GARAJE GUIMERÁ]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Ángel Guimerá]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[9]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[65]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38539434,39.47017679
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING NUEVO CENTRO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING NUEVO CENTRO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pío XII]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[2]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[2500]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39119391,39.48107261
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING TRADE CENTER</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING TRADE CENTER]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Profesor Beltrán Báguena]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[4]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[230]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38899674,39.48076200
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING SANTA TERESA S.L.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING SANTA TERESA S.L.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Gaspar Aguilar]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[92]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[275]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.39289461,39.45297640
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING JESÚS</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING JESÚS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Callosa d'en Sarriá]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[11]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[100]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38689153,39.46092242
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING MALILLA</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING MALILLA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Joaquín Benlloch]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[17]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[34]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37709473,39.45441357
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING DE CAMIONES (F.V.E.T.)</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING DE CAMIONES (F.V.E.T.)]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Crta. Fuente En Corts]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[00]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35565009,39.43672994
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING DE AUTOBUSES (CACSA)</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING DE AUTOBUSES (CACSA)]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Profesor López Piñero]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35206728,39.45400808
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING DE TURISMOS (CACSA)</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING DE TURISMOS (CACSA)]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Profesor López Piñero]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35540824,39.45630933
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING PÚBLICO</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING PÚBLICO]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Dr. Manuel Candela]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[15, 17]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[168]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35102067,39.46658747
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING DE TURISMOS L'OCEANOGRAFIC</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING DE TURISMOS L'OCEANOGRAFIC]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Eduardo Primo Yúfera]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.34787798,39.45232679
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PASEO DE LA ALAMEDA (PARKING DEL PALAU)</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PASEO DE LA ALAMEDA (PARKING DEL PALAU)]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. Arquitecto Calvo]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[547]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35893204,39.46668649
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VINAUTO, S.A.</name>
+        <styleUrl>#style_symbol_parking1azulclaro_0.4_ff000000</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[VINAUTO, S.A.]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Císcar]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[21]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[239]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36563662,39.46611800
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING CHILE - AV. ARAGÓN</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING CHILE - AV. ARAGÓN]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Chile, s/n]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[527]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.35606157,39.47066614
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING NAVARRO LLORENS - ABASTOS</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING NAVARRO LLORENS - ABASTOS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pintor Navarro Llorens]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[391]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.38760340,39.46705539
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CONDE ALTEA - SALAMANCA - CANOVAS</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[CONDE ALTEA - SALAMANCA - CANOVAS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Salamanca, C. Altea, Pl. Canov]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[399]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36538985,39.46789477
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARTI GRAJALES (MERCADO DEL CABAÑAL)</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[MARTI GRAJALES (MERCADO DEL CABAÑAL)]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Calle Martí Grajales]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[369]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.33316835,39.46841234
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARKING AVENIDA DEL OESTE</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PARKING AVENIDA DEL OESTE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[C. Hospital]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[1]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[270]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[167]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37987128,39.47122430
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRES CRUCES</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[TRES CRUCES]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Tres Cruces (frente al Hospital General)]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[2]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[352]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[96]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.40621250,39.46859838
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARÓN DE CARCER - S. AGUSTÍN - S. VICENTE</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[BARÓN DE CARCER - S. AGUSTÍN - S. VICENTE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Av. Barón de Cárcer, calle San Vicente]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[818]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[402]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37976754,39.46834737
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAÇA DE LA REINA</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PLAÇA DE LA REINA]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Pl. de la Reina]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[2]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[348]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[139]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.37539763,39.47451884
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REGNE</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[REGNE]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[Maestro Gozalbo]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[23]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[93]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[28]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.36876652,39.46448626
+	</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PALACIO DE CONGRESOS</name>
+        <styleUrl>#style_symbol_Parking1_0.4_ffb87d37</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <displayName>nombre</displayName>
+            <value><![CDATA[PALACIO DE CONGRESOS]]></value>
+          </Data>
+          <Data name="direccion">
+            <displayName>direccion</displayName>
+            <value><![CDATA[D. Nicasio Benlloch]]></value>
+          </Data>
+          <Data name="numeropol">
+            <displayName>numeropol</displayName>
+            <value><![CDATA[S/N]]></value>
+          </Data>
+          <Data name="tipo">
+            <displayName>tipo</displayName>
+            <value><![CDATA[0]]></value>
+          </Data>
+          <Data name="plazastota">
+            <displayName>plazastota</displayName>
+            <value><![CDATA[602]]></value>
+          </Data>
+          <Data name="plazaslibr">
+            <displayName>plazaslibr</displayName>
+            <value><![CDATA[-1]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+	-0.40101658,39.49762559
+	</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
